@@ -1,5 +1,11 @@
 # Immersive Visit VR — SVR 2026
 
+**Demonstration Videos:**
+- 🎥 [Exploratory Version](https://youtu.be/W1daQtUHMhw?is=yFtjgwbQyBkE6fmg)
+- 🎥 [Final Version](https://youtu.be/mp07kE8GKCI?is=u1R-yWra7qjyEyhV)
+
+---
+
 This repository contains the Unity project files for the **Rehabilitation Clinic** architectural scene developed for the work presented at SVR 2026.
 
 Two versions of the scene are included:
