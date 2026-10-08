@@ -1,8 +1,8 @@
 # Immersive Visit VR — SVR 2026
 
 **Demonstration Videos:**
-- 🎥 [Exploratory Version](https://youtu.be/W1daQtUHMhw?is=yFtjgwbQyBkE6fmg)
-- 🎥 [Final Version](https://youtu.be/mp07kE8GKCI?is=u1R-yWra7qjyEyhV)
+- 🎥 [Exploratory Version](https://youtu.be/mp07kE8GKCI?is=u1R-yWra7qjyEyhV)
+- 🎥 [Final Version](https://youtu.be/W1daQtUHMhw?is=yFtjgwbQyBkE6fmg)
 
 ---
 
